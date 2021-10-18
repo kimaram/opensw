@@ -1,0 +1,5 @@
+name: kimaram
+id: 2017038071 
+department: software
+grade: 4
+subject: opensw
